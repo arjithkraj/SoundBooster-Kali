@@ -3,7 +3,7 @@ This simple script can make your kali linux machine's sound louder than the defa
 
 # ★ Download
 
-● https://github.com/arjithkraj/SoundBooster-Kali.git
+● git clone https://github.com/arjithkraj/SoundBooster-Kali.git
 
 # ★ How to Setup
 
