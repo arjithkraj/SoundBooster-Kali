@@ -23,7 +23,7 @@ Open terminal and execute the script using the following command
 
 # ★ Video
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kv7bfGPqTpg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 # ★ For more 
 
