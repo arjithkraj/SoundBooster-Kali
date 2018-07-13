@@ -1,5 +1,5 @@
 # SoundBooster-Kali
-This simple script can make your kali linux machine's sound louder than the defaut maximum volume.
+This simple script can make your kali linux machine's sound louder than the default maximum volume.
 
 # ★ Download
 
